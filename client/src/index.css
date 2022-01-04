@@ -1,0 +1,9 @@
+@import "~materialize-css/dist/css/materialize.min.css";
+
+.mr-1 {
+  margin-right: 10px;
+}
+
+.pt-1 {
+  padding-top: 2rem;
+}
